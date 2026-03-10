@@ -16,3 +16,10 @@ Un aspecto que debería mejorar es *la falta de actualización e innovación*
 **La aplicacion se llama Educaos**
 La falta de actualización metodológica en algunos docentes con muchos años de
 experiencia y la poca motivación en asignaturas más teóricas o consideradas “aburridas”.
+
+## 4.Impacto Sostenible
+**Conclusión de cómo esta app contribuye al ODS 4**
+Desde el sector IT tenemos la capacidad de diseñar plataformas más accesibles, intuitivas
+ e inclusivas, que ayuden tanto a docentes como a estudiantes. De esta manera, con la 
+ app Educaos contribuimos directamente al ODS 4, promoviendo una educación de mayor
+ calidad, más equitativa y adaptada a las necesidades actuales.
